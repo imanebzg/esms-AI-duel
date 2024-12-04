@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    height: 100px;
+    background-color: #e1d4c1;
+    padding: 10px 0;
+      text-align: center;
+}
+a{
+    color: #929ECC;
+    text-decoration: none;
+    margin: 0px 25px;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+nav img {
+    position: absolute;
+    left: 10px;
+    top: 18px;
+    width: 100px;
+    height: 100px;
+}
+button{
+    position: absolute;
+    right: 40px;
+    width: 140px;
+    height: 40px;
+    border: 1px solid;
+    font-size: 20px;
+    border-color: #a0d0da;
+    border-radius: 10px;
+    top: 35px;
+    text-align: center;
+    color: #eaeced;
+    background-color: #a0d0da;
+}
+#evname{
+    position: absolute;
+    bottom: 280px;
+    left: 625px;
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    margin: 0px;
+}
+#welcome{
+    position: absolute;
+    top: 500px;
+}
+#wel{
+    position: absolute;
+    top: -320px;
+    left: 320px;
+    scale: 0.57;
+}
+#wh{
+    border: 2px #102233 solid;
+    width: 300px;
+    height: 50px;
+    font-size: 28px;
+    text-align: center;
+    background-color: #102233;
+    color: #eaeced;
+    border-radius: 10px;
+    position: absolute;
+    top: -230px;
+    left: 617px;
+}
+#wp{
+    position: absolute;
+    top:-150px;
+    left: 530px;
+    width: 450px;
+    height: 300px;
+    font-size: 15px;
+    text-align: center;
+
+}
+#wq{
+    position: absolute;
+    top:-50px;
+    left: 550px;
+    width: 450px;
+    height: 300px;
+    font-size: 20px;
+    text-align: center;
+
+}
+#teaser{
+    width: 550px;
+    height: 350px;
+    position: absolute;
+    background-color: #102233;
+    border-radius: 15px;
+    top: 500px;
+    left: 495px;
+}
+#vp{
+    border: #a0d0da 12px solid;
+    border-radius: 15px;
+    background-color: #eaeced;
+    width: 520px;
+    height: 320px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+#abouts{
+    background-color: #fafafa;
+    position: absolute;
+    top: 1450px;
+    border: 2px solid #a0d0da;
+    left: 495px;
+    width: 550px;
+    height: 350px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 20px;
+}
+#abouttext{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 520px;
+    height:320px ;
+}
+#agendap{
+    position: absolute;
+    top: 900px;
+    left: 100px;
+    border-bottom: 4px solid;
+}
+#sponsor{
+    position: absolute;
+    top: 1880px;
+    left: 40px;
+    font-size: 30px;
+    border-bottom: 4px solid;
+}
+#spon{
+position: absolute;
+width: 1200px;
+top: 1900px;
+left: 200px;
+}
+
+#footer{
+    position: absolute;
+    top: 2300px;
+    width: 100%;
+    height: 500px;
+    background-color: #e1d4c1;
+}
+#line{
+    border: 2px #0081FE solid;
+    width: 80%;
+    position: absolute;
+    left: 10%;
+    top: 50px;
+}
+#cse{
+    position: absolute;
+    width: 225px;
+    height: 300px;
+    left: 500px;
+    top: 70px;
+}
+#logof{
+    position: absolute;
+    width: 225px;
+    height: 300px;
+    left: 250px;
+    top: 100px;
+}
