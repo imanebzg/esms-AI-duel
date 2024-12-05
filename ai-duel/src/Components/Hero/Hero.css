@@ -1,0 +1,66 @@
+
+#evname{
+    position: absolute;
+    bottom: 280px;
+    left: 29.9rem;
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    margin: 0px;
+}
+#welcome{
+    position: absolute;
+    top: 30rem;
+    
+}
+#wel{
+    position: absolute;
+    top: -320px;
+    left: 10rem;
+    scale: 0.61;
+}
+#wh{
+    border: 2px #102233 solid;
+    width: 300px;
+    height: 50px;
+    font-size: 28px;
+    text-align: center;
+    background-color: #102233;
+    color: #eaeced;
+    border-radius: 10px;
+    position: absolute;
+    top: -230px;
+    left: 28rem;
+}
+#wp{
+    position: absolute;
+    top:-150px;
+    left: 24rem;
+    width: 450px;
+    height: 300px;
+    font-size: 15px;
+    text-align: center;
+
+}
+#wq{
+    position: absolute;
+    top:-50px;
+    left: 24rem;
+    width: 450px;
+    height: 300px;
+    font-size: 20px;
+    text-align: center;
+
+}
+#vp{
+    border: #a0d0da 12px solid;
+    border-radius: 15px;
+    background-color: black;
+    width: 520px;
+    height: 320px;
+    position: absolute;
+    top: 500px;
+    left: 15px;
+}
+   
+

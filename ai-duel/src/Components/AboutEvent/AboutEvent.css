@@ -1,0 +1,20 @@
+
+#abouts{
+    background-color: #fafafa;
+    position: absolute;
+    top: 75rem;
+    border: 2px solid #a0d0da;
+    left: 23rem;
+    width: 550px;
+    height: 350px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 20px;
+}
+#abouttext{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 520px;
+    height:320px ;
+}
