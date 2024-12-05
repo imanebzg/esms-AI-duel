@@ -2,7 +2,47 @@
 
 #agendap{
     position: absolute;
-    top: 900px;
+    top: 38rem;
     left: 100px;
     border-bottom: 4px solid;
+}
+
+.agenda-container {
+    background-color: #102233;
+    margin-left: 20rem;
+    border-radius: 70px;
+    width: 33rem;
+    height: 21rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+
+  .agenda-dates {
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+    padding: 10px 20px;
+    margin-right: 10.2rem;
+    margin-top: 1rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center; /* Centers the rectangle horizontally */
+}
+
+.agenda-dates:nth-child(even) {
+    justify-content: flex-end; /* Align rectangle to the right */
+}
+
+.agenda-box {
+    background-color: #A0D0DA; /* Blue color */
+    padding: 0.5rem 0.9rem;
+    border-radius: 70px;
+    color: black; /* White text */
+    text-align: center;
+    width: 5rem;
 }

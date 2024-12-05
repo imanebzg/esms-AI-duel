@@ -12,7 +12,7 @@ const Hero = () => {
         <p id="wp"> A thrilling competition where Artificial Intelligence faces its vulnerabilities  
         Test your skills by bypassing AI models designed to challenge the boundaries of security. 
        </p>
-       <p id="wq">         Are you ready to uncover the unseen?</p>
+       {/*<p id="wq">Are you ready to uncover the unseen?</p>*/}
 
     </div>
   )
